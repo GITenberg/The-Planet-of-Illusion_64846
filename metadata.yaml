@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '42186'
     url: http://www.gutenberg.org/2009/agents/42186
     wikipedia: https://en.wikipedia.org/wiki/John_Giunta
+covers:
+- cover_type: archival
+  image_path: 64846-h/images/cover.jpg
 creator:
   author:
     agent_name: Wollheim, Donald A.
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36516
     wikipedia: https://en.wikipedia.org/wiki/Donald_A._Wollheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64846#The-Planet-of-Illusion
 gutenberg_issued: '2021-03-17'
 gutenberg_type: Text
 identifiers:
